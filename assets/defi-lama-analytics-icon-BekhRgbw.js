@@ -1,0 +1,1 @@
+const a="/assets/defi-lama-analytics-icon-slSun3L7.svg";export{a as default};
