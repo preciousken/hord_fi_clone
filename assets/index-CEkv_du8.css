@@ -6322,8 +6322,8 @@ svg.svg-fill-primary-hover:hover path {
     min-width: 25ch !important;
 }
 .global-loader-container {
-    /* display: flex; */
-    display: none; /* removeme */
+    display: flex;
+    /* display: none; removeme */
     justify-content: center;
     align-items: center;
     background-color: var(--app-bg-main);
